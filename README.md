@@ -9,7 +9,7 @@
 const Sơn = {
   pronouns: "boy"
   code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  tools: [React, Redux, Node],
 
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }

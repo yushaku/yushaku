@@ -3,7 +3,7 @@
 <!-- <a href="#" target="_blank">
   <img src="svg/yushaku.svg" width="1200" alt="Click to see the source" />
 </a> -->
-<div style="width:100%;height:0;padding-bottom:77%;position:relative;"><iframe src="https://giphy.com/embed/WlBUAWG03Zic8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/earth-WlBUAWG03Zic8">via GIPHY</a></p>
+https://media4.giphy.com/media/l1KVcrdl7rJpFnY2s/200.gif
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>

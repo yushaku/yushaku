@@ -3,8 +3,7 @@
 <!-- <a href="#" target="_blank">
   <img src="svg/yushaku.svg" width="1200" alt="Click to see the source" />
 </a> -->
-https://media4.giphy.com/media/l1KVcrdl7rJpFnY2s/200.gif
-
+<img src="https://media4.giphy.com/media/l1KVcrdl7rJpFnY2s/200.gif" />
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->

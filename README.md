@@ -1,9 +1,12 @@
 <h2> Hi, I'm Yushaku! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <!-- yushaku -->
-<a href="#" target="_blank">
+<!-- <a href="#" target="_blank">
   <img src="svg/yushaku.svg" width="1200" alt="Click to see the source" />
-</a>
+</a> -->
+<div style = {]>
 
+</div>
+<img src="https://media4.giphy.com/media/l1KVcrdl7rJpFnY2s/200.gif" />
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->

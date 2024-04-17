@@ -87,12 +87,6 @@
 
 <h2 align="center">📑 Random Quotes 📑</h2>
 <br>
-<!-- https://github.com/shravan20/github-readme-quotes -->
-<div align="right">
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight&animation=default&layout=churchill&font=Redressed)
-
-</div>
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 

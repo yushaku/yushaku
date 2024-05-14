@@ -90,6 +90,6 @@
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-<a href="https://app.daily.dev/francescociulla"><img src="./devcard.png" width="356" alt="Yushaku's Dev Card"/></a>
+<a href="https://app.daily.dev/yushaku"><img src="./devcard.png" width="356" alt="Yushaku's Dev Card"/></a>
 
 ---
